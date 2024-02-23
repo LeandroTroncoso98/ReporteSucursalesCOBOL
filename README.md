@@ -34,7 +34,7 @@ Las primeros 3 digitos son el numero de departamento
 El resto el valor objetivo que deben alcanzar.
 (Formato: $0000000.00)
 
-El formato del reporte debera estar presentado de la siguiente forma:
+El formato del reporte debera estar presentado de la siguiente forma y debera ser guardado en un fichero llamado REPORTE:
 
  ----------------------------------------------------------------
 |                 RESUMEN DE GANANCIAS GENERALES                 |
@@ -43,4 +43,5 @@ El formato del reporte debera estar presentado de la siguiente forma:
  ----------------------------------------------------------------
 | XXXXXXXXXXXXXXXXXXX   $XXXXXX.XX         NO LOGRADO            | 
 | XXXXXXXXXXXXXXXXXXX   $XXXXXX.XX         LOGRADO               |
- ----------------------------------------------------------------                          
+ ----------------------------------------------------------------     
+ 
